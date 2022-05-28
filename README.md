@@ -21,7 +21,7 @@
 A basic Chatbot implemented on University website.
 The Chatbot answers basic queries regarding university 
 admission process, fees structure, course details, 
-accomodation details, faculty and staff etc. 
+accommodation details, faculty and staff etc. 
 
 #### Link to the web app
 https://ku-chatbot.herokuapp.com/
